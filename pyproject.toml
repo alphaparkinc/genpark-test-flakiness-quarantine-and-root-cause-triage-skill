@@ -1,0 +1,12 @@
+[project]
+name = "genpark-test-flakiness-quarantine-and-root-cause-triage-skill"
+version = "1.0.0"
+description = "Evaluates multi-run test suite trajectories, calculates flakiness volatility indices, isolates timing race conditions from deterministic regressions, and generates automated quarantine tags"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
