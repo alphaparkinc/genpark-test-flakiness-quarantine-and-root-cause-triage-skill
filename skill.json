@@ -1,0 +1,11 @@
+{
+  "name": "genpark-test-flakiness-quarantine-and-root-cause-triage-skill",
+  "version": "1.0.0",
+  "description": "Evaluates multi-run test suite trajectories, calculates flakiness volatility indices, isolates timing race conditions from deterministic regressions, and generates automated quarantine tags",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
